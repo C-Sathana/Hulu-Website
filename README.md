@@ -12,7 +12,6 @@ A responsive recreation of the Hulu homepage using **HTML**, **CSS**, and **Java
 * 🧠 Clean, semantic HTML and reusable CSS components
 * 🛠️ Modular JavaScript for dynamic behavior
 
----
 
 ## 🧰 Tech Stack
 
