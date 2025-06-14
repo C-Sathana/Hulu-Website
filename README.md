@@ -20,20 +20,6 @@ A responsive recreation of the Hulu homepage using **HTML**, **CSS**, and **Java
 * **CSS3** (Flexbox, Grid, Media Queries)
 * **Vanilla JavaScript**
 
----
-
-## 📂 Project Structure
-
-Hulu-Website/
-│
-├── index.html          # Main HTML page
-├── /css
-│   └── style.css       # All styles here
-├── /js
-│   └── script.js       # JavaScript interactivity
-└── /image           # Images and media
-
-
 
 ## 🎯 Goals
 
