@@ -1,6 +1,3 @@
-Here’s a clean and professional **GitHub README** for your Hulu landing page clone using HTML, CSS, and JavaScript:
-
----
 
 # 🎬 Hulu Landing Page Clone
 
